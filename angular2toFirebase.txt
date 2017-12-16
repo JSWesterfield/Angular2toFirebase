@@ -1,0 +1,21 @@
+-added hosty-app on firebase
+-Use to quickly demo or deploy an application without install time. 
+
+
+
+Our app is now deployed and ready to view! Run this Firebase command to see it in action:
+firebase open hosting:site
+
+
+To reopen application, you’ll have:
+1.) drag the ‘FirebaseAngular2App’ directory into VS code and pull up integrated terminal in view menu. 
+
+1.) cd into the of hosty-app directory:
+
+cd /Users/jacobwesterfield/desktop/Github/FirebaseAngular2App/hosty-app
+
+2.) then integrated terminal use the command: 
+
+firebase open hosting:site
+
+3.) this should render the index.html view thats inside your hosty-app directory. Not sure if you can do this
